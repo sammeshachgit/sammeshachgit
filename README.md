@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sam%20Meshach%20A&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Problem%20Solver&descAlignY=60&descSize=17&descColor=c4b5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=header&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -30,58 +30,18 @@
 
 <br/>
 
-🎓 &nbsp;**B.Tech AI & DS** @ Sri Eshwar College of Engineering `CGPA: 8.88`
+🎓 &nbsp;**B.Tech AI & DS** @ Sri Eshwar College of Engineering `CGPA: .88`
 
 🌍 &nbsp;Based in **Tamil Nadu, India**
 
 🤖 &nbsp;Passionate about **AI, Machine Learning & Generative AI**
 
-🌐 &nbsp;Love building **Full-Stack Web Applications**
-
-🏆 &nbsp;**Top 3.81%** on LeetCode | **500+ Problems** Solved
-
-⚡ &nbsp;Finalist at **IIT Delhi Hack4Purpose** among 500+ teams
-
-🔥 &nbsp;Winner at **INTELLINA** — ML/DL + Web Dev Events
-
-🚀 &nbsp;**Smart India Hackathon** Regional Qualifier
-
 💡 &nbsp;Always exploring **new tech** and **open-source** contributions
 
-📫 &nbsp;Reach me at **sammeshach.a2022ai-ds@sece.ac.in**
+📫 &nbsp;Reach me at **sammeshach333@gmail.com / sammeshachofficial@gmail.com**
 
 <br clear="right"/>
 
----
-
-## 🎯 Quick Profile Card
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                    SAM MESHACH A — PROFILE                      ║
-╠══════════════════════════════════════════════════════════════════╣
-║  🎓  Degree      →  B.Tech AI & DS (2022–2026)                  ║
-║  📍  Location    →  Tamil Nadu, India                           ║
-║  💼  Roles       →  AI Engineer | Full Stack Dev | DS Intern    ║
-║  🏆  LeetCode    →  Rating 1969 | Top 3.81% | 500+ Solved       ║
-║  🍴  CodeChef    →  250+ Problems Solved                        ║
-║  ☁️   Cloud       →  AWS Certified Cloud Practitioner           ║
-║  📊  BI Tools    →  Tableau | Power BI | Databricks             ║
-║  🤖  AI Stack    →  Gen AI | ML | DL | NLP | Voice AI           ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
@@ -265,9 +225,6 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"/>
-
-<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammeshach023)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sammeshachgit)
