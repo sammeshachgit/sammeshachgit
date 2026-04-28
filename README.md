@@ -49,25 +49,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sammeshachgit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&border_radius=10" />
-<img width="49%" src="https://streak-stats.demolab.com?user=sammeshachgit&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&border_radius=10" />
-
-<br/><br/>
-
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammeshachgit&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&border_radius=10" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sammeshachgit&bg_color=0D1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%" />
-
-</div>
-
----
-
 ## 🥇 Competitive Programming
 
 <div align="center">
