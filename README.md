@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sammeshach023-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammeshach023)
 [![GitHub](https://img.shields.io/badge/GitHub-sammeshachgit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sammeshachgit)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Top%203.81%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sammeshachgit)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Top%203.81%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sammeshach023)
 [![Email](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammeshachofficial@gmail.com)
 
 </div>
@@ -23,13 +23,15 @@
 
 💼 &nbsp;**Software Engineer @ Caterpillar**
 
-🎓 &nbsp;**B.Tech AI&DS** @ Sri Eshwar College Of Engineering | CGPA: 8.88  
+🎓 &nbsp;**B.Tech AI&DS** @ SECE | CGPA: 8.88  
 
 🤖 &nbsp;Passionate about **AI, ML, Agentic AI & Generative AI**  
 
-🏆 &nbsp;LeetCode: 500+ Problems | Rating 1969 (Top 3.8%)  
+🏆 &nbsp;LeetCode: **500+** Problems | Rating **1969 (Top 3.8%)** 
 
-📍 &nbsp;Tamil Nadu, India · 📫 &nbsp; sammeshachofficial@gmail.com
+📍 &nbsp;Tamil Nadu, India  
+
+📫 &nbsp;sammeshachofficial@gmail.com
 
 <br clear="right"/>
 
@@ -76,9 +78,9 @@
 
 | 🏅 Platform | 🎯 Achievement | 🔗 |
 |:-----------:|:--------------:|:--:|
-| 🟡 **LeetCode** | Rating **1969** &nbsp;•&nbsp; Top **3.81%** Worldwide &nbsp;•&nbsp; **500+** Solved | [![LeetCode](https://img.shields.io/badge/View_Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/) |
-| 🍴 **CodeChef** | **250+** Problems Solved | [![CodeChef](https://img.shields.io/badge/View_Profile-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/) |
-| 🟢 **HackerRank** | **3 Certificates** &nbsp;•&nbsp; **4 Badges** | [![HackerRank](https://img.shields.io/badge/View_Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com/) |
+| 🟡 **LeetCode** | Rating **1969** &nbsp;•&nbsp; Top **3.81%** Worldwide &nbsp;•&nbsp; **500+** Solved | [![LeetCode](https://img.shields.io/badge/View_Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/sammeshach023) |
+| 🍴 **CodeChef** | **250+** Problems Solved | [![CodeChef](https://img.shields.io/badge/View_Profile-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/users/sammeshach23) |
+| 🟢 **HackerRank** | **3 Certificates** &nbsp;•&nbsp; **4 Badges** | [![HackerRank](https://img.shields.io/badge/View_Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sammeshach_a2021) |
 | 🏅 **NCAT All India** | **Rank #9031** Nationwide | ![NCAT](https://img.shields.io/badge/Rank-%239031-FFD700?style=flat-square) |
 
 </div>
@@ -163,9 +165,9 @@
 
 | | 🏢 Company | 💼 Role | 🛠️ Tech Stack | 📅 Year |
 |:---:|:----------:|:-------:|:-------------:|:-------:|
-| <img src="https://img.shields.io/badge/01-a78bfa?style=flat-square&logoColor=white" /> | **RV Tech Learn** | MERN Stack Intern | `MongoDB` `Express` `React` `Node.js` `SQL` | `2024` |
-| <img src="https://img.shields.io/badge/02-7c3aed?style=flat-square&logoColor=white" /> | **TATA via Forage** | Data Science Intern | `Data Viz` `BI` `Data Analysis` `ML` | `2024` |
-| <img src="https://img.shields.io/badge/03-5b21b6?style=flat-square&logoColor=white" /> | **OctaNet Pvt. Ltd** | Web Development Intern | `HTML5` `CSS3` `JavaScript` `MERN` | `2023` |
+| <img src="https://img.shields.io/badge/01-a78bfa?style=flat-square&logoColor=white" /> | **CATERPILLAR** | Associate Developer | `Artificial intelligence ` `Agentic AI ` `Gen AI` `Machine Learning` `Python` `.Net` | `2026` |
+| <img src="https://img.shields.io/badge/02-7c3aed?style=flat-square&logoColor=white" /> | **CATERPILLAR** | College Intern | `Agentic AI ` `Gen AI` `Machine Learning` `Python` `.Net` | `2025` |
+| <img src="https://img.shields.io/badge/03-5b21b6?style=flat-square&logoColor=white" /> | **RV Tech Learn** | MERN Stack Intern | `MongoDB` `Express` `React` `Node.js` `SQL` | `2024` |
 
 </div>
 
@@ -191,10 +193,6 @@
 ## 🌐 Let's Connect
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380"/>
-
-<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammeshach023)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sammeshachgit)
