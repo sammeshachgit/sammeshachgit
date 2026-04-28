@@ -37,18 +37,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=sammeshachgit&theme=dracula&no-frame=true&margin-w=10&margin-h=10&row=2&column=4" alt="GitHub Trophies"/>
-</a>
-
-</div>
-
----
-
 ## 🥇 Competitive Programming
 
 <div align="center">
