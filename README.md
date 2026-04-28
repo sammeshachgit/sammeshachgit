@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sam%20Meshach%20A&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descSize=16&descColor=a78bfa" width="100%"/>](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=header&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
