@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sam%20Meshach%20A&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descSize=16&descColor=c4b5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=header&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -11,12 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sammeshach023-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammeshach023)
 [![GitHub](https://img.shields.io/badge/GitHub-sammeshachgit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sammeshachgit)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Top%203.81%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sammeshachgit)
-[![Email](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammeshach.a2022ai-ds@sece.ac.in)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sammeshachgit&label=Profile%20Views&color=a78bfa&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/sammeshachgit?label=Followers&style=for-the-badge&color=7c3aed)
+[![Email](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammeshachofficial@gmail.com)
 
 </div>
 
@@ -26,15 +21,15 @@
 
 <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-🎓 &nbsp;**B.Tech AI & DS** @ Sri Eshwar College of Engineering &nbsp;`CGPA: 8.88`
+💼 &nbsp;**Software Engineer @ Caterpillar**
 
-🤖 &nbsp;Passionate about **AI, Machine Learning & Generative AI**
+🎓 &nbsp;**B.Tech AI&DS** @ Sri Eshwar College Of Engineering | CGPA: 8.88  
 
-🏆 &nbsp;**Top 3.81%** on LeetCode | **500+ Problems** Solved
+🤖 &nbsp;Passionate about **AI, ML, Agentic AI & Generative AI**  
 
-⚡ &nbsp;**IIT Delhi Hack4Purpose** Finalist | **SIH** Regional Qualifier
+🏆 &nbsp;LeetCode: 500+ Problems | Rating 1969 (Top 3.8%)  
 
-📍 &nbsp;Tamil Nadu, India &nbsp;·&nbsp; 📫 &nbsp;sammeshach.a2022ai-ds@sece.ac.in
+📍 &nbsp;Tamil Nadu, India · 📫 &nbsp; sammeshachofficial@gmail.com
 
 <br clear="right"/>
 
