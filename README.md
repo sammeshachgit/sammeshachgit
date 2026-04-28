@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sam%20Meshach%20A&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descSize=16&descColor=c4b5fd" width="100%"/>
 
 <br/>
 
-<!-- FIXED Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&height=55&lines=%F0%9F%A4%96+Building+Intelligent+Systems;%F0%9F%8C%90+Full+Stack+Web+Developer;%F0%9F%93%8A+Data+Science+%26+AI+Enthusiast;%F0%9F%8F%86+Top+3.81%25+LeetCode+Worldwide;%F0%9F%9A%80+Turning+Ideas+into+Reality!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&height=55&lines=%F0%9F%A4%96+Building+Intelligent+Systems;%F0%9F%8C%90+Full+Stack+Web+Developer;%F0%9F%93%8A+Data+Science+%26+AI+Enthusiast;%F0%9F%8F%86+Top+3.81%25+on+LeetCode+Worldwide;%F0%9F%9A%80+Turning+Ideas+into+Reality!" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -26,22 +24,19 @@
 
 ## ⚡ About Me
 
-<img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<br/>
-
-🎓 &nbsp;**B.Tech AI & DS** @ Sri Eshwar College of Engineering `CGPA: .88`
-
-🌍 &nbsp;Based in **Tamil Nadu, India**
+🎓 &nbsp;**B.Tech AI & DS** @ Sri Eshwar College of Engineering &nbsp;`CGPA: 8.88`
 
 🤖 &nbsp;Passionate about **AI, Machine Learning & Generative AI**
 
-💡 &nbsp;Always exploring **new tech** and **open-source** contributions
+🏆 &nbsp;**Top 3.81%** on LeetCode | **500+ Problems** Solved
 
-📫 &nbsp;Reach me at **sammeshach333@gmail.com / sammeshachofficial@gmail.com**
+⚡ &nbsp;**IIT Delhi Hack4Purpose** Finalist | **SIH** Regional Qualifier
+
+📍 &nbsp;Tamil Nadu, India &nbsp;·&nbsp; 📫 &nbsp;sammeshach.a2022ai-ds@sece.ac.in
 
 <br clear="right"/>
-
 
 ---
 
@@ -50,7 +45,7 @@
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=sammeshachgit&theme=dracula&no-frame=true&margin-w=10&margin-h=10&row=2&column=4" alt="sammeshachgit trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sammeshachgit&theme=dracula&no-frame=true&margin-w=10&margin-h=10&row=2&column=4" alt="GitHub Trophies"/>
 </a>
 
 </div>
@@ -66,7 +61,7 @@
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammeshachgit&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&border_radius=10" />
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammeshachgit&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&border_radius=10" />
 
 <br/><br/>
 
@@ -80,16 +75,16 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="350"/>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="320"/>
 
 <br/><br/>
 
-| 🏅 Platform | 🎯 Achievement | 🔗 Badge |
-|:-----------:|:--------------:|:--------:|
-| 🟡 **LeetCode** | Rating **1969** • Top **3.81%** • **500+** Solved | [![LeetCode](https://img.shields.io/badge/Rating-1969-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/) |
-| 🍴 **CodeChef** | **250+** Problems Solved | [![CodeChef](https://img.shields.io/badge/Solved-250%2B-5B4638?style=flat-square&logo=codechef)](https://codechef.com/) |
-| 🟢 **HackerRank** | **3 Certificates** + **4 Badges** | [![HackerRank](https://img.shields.io/badge/Certs-3_%7C_Badges-4-2EC866?style=flat-square&logo=hackerrank)](https://hackerrank.com/) |
-| 🏅 **NCAT** | **All India Rank #9031** | ![NCAT](https://img.shields.io/badge/Rank-%239031_All_India-FFD700?style=flat-square) |
+| 🏅 Platform | 🎯 Achievement | 🔗 |
+|:-----------:|:--------------:|:--:|
+| 🟡 **LeetCode** | Rating **1969** &nbsp;•&nbsp; Top **3.81%** Worldwide &nbsp;•&nbsp; **500+** Solved | [![LeetCode](https://img.shields.io/badge/View_Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/) |
+| 🍴 **CodeChef** | **250+** Problems Solved | [![CodeChef](https://img.shields.io/badge/View_Profile-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/) |
+| 🟢 **HackerRank** | **3 Certificates** &nbsp;•&nbsp; **4 Badges** | [![HackerRank](https://img.shields.io/badge/View_Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com/) |
+| 🏅 **NCAT All India** | **Rank #9031** Nationwide | ![NCAT](https://img.shields.io/badge/Rank-%239031-FFD700?style=flat-square) |
 
 </div>
 
@@ -98,19 +93,25 @@
 ## 🎖️ Hackathon Hall of Fame
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="90"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60"/>
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60"/>
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60"/>
+
+<br/><br/>
+
+| 🏆 Event | 🎯 Achievement | 📅 Year |
+|:--------:|:--------------:|:-------:|
+| 🥇 **IIT Delhi Hack4Purpose** | Top **10 Finalist** among **500+ teams** Pan-India | `2024` |
+| 🥇 **INTELLINA** | **1st Place** — ML & DL Event + Web Development | `2024` |
+| 🥈 **INTELLINA** | **2nd Place** — PromptMania | `2024` |
+| 🏆 **Smart India Hackathon** | Won Internally → Qualified to **Regional Level** | `2024` |
+| 🏆 **HACKFEST** | Selected as **National Level Finalist** | `2024` |
+| 🥇 **JAVA-DB LEAP EXPO** | **1st Place Overall** — First Year | `2022` |
+
 </div>
-
-<br/>
-
-```
- 🥇  IIT DELHI HACK4PURPOSE   ──►  Top 10 Finalist among 500+ teams Pan-India       [2024]
- 🥇  INTELLINA                ──►  1st Place — ML & DL Event + Web Dev               [2024]
- 🥈  INTELLINA                ──►  2nd Place — PromptMania                           [2024]
- 🏆  SMART INDIA HACKATHON    ──►  Won Internally → Qualified to Regional Level      [2024]
- 🏆  HACKFEST                 ──►  National Level Finalist                           [2024]
- 🥇  JAVA-DB LEAP EXPO        ──►  1st Place Overall — First Year                    [2022]
-```
 
 ---
 
@@ -149,7 +150,7 @@
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### ☁️ Cloud & Tools
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -161,20 +162,15 @@
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Work Experience
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400"/>
-
-<br/><br/>
-
-| 🔥 Project | 📋 Description | 🛠️ Stack |
-|:----------:|:--------------:|:--------:|
-| 🌪️ **DisasterNet** | Real-time disaster management platform with ML | HTML5 • Firebase • ML • Bootstrap |
-| 🤖 **AI Interviewer** | Gen AI + voice-to-text interview evaluation system | Gen AI • Google Gemini • ML |
-| 🏫 **InnoForge Web** | Dynamic college showcase website | HTML5 • CSS3 • JavaScript • Bootstrap |
-| ✈️ **Airline Reservation** | Full workflow reservation management system | JavaFX • Scene Builder • MongoDB |
+| | 🏢 Company | 💼 Role | 🛠️ Tech Stack | 📅 Year |
+|:---:|:----------:|:-------:|:-------------:|:-------:|
+| <img src="https://img.shields.io/badge/01-a78bfa?style=flat-square&logoColor=white" /> | **RV Tech Learn** | MERN Stack Intern | `MongoDB` `Express` `React` `Node.js` `SQL` | `2024` |
+| <img src="https://img.shields.io/badge/02-7c3aed?style=flat-square&logoColor=white" /> | **TATA via Forage** | Data Science Intern | `Data Viz` `BI` `Data Analysis` `ML` | `2024` |
+| <img src="https://img.shields.io/badge/03-5b21b6?style=flat-square&logoColor=white" /> | **OctaNet Pvt. Ltd** | Web Development Intern | `HTML5` `CSS3` `JavaScript` `MERN` | `2023` |
 
 </div>
 
@@ -197,34 +193,13 @@
 
 ---
 
-## 💼 Work Experience
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  🔷  MERN Stack Intern         RV Tech Learn           2024         │
-│      Built secure REST APIs, user auth & dynamic web apps           │
-│      Stack: MongoDB • Express • React • Node • HTML5 • SQL          │
-├─────────────────────────────────────────────────────────────────────┤
-│  🔷  Data Science Intern       TATA via Forage         2024         │
-│      Data visualisation & executive decision-making dashboards      │
-│      Stack: BI • Data Visualisation • Data Analysis • ML            │
-├─────────────────────────────────────────────────────────────────────┤
-│  🔷  Web Development Intern    OctaNet Pvt. Ltd        2023         │
-│      Built & maintained production websites with MERN               │
-│      Stack: HTML5 • CSS3 • JavaScript • MERN                        │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380"/>
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammeshach023)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sammeshachgit)
@@ -235,11 +210,8 @@
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-
-<br/>
-
-> *"The best way to predict the future is to build it."* — **Sam Meshach A** 🚀
+> ### *"The best way to predict the future is to build it."*
+> — **Sam Meshach A** 🚀
 
 <br/>
 
